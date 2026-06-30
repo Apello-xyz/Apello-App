@@ -3,7 +3,7 @@
 
 Welcome to the **Apello Frontend** — the user-facing interface of Apello, the all-in-one community management toolkit for creators, NFT projects, DAOs, and web3 communities.
 
-🔗 **Live website:** https://apello.xyz
+🔗 **Live website:** https://v2.apello.xyz
 
 This repository contains the **frontend code only** — no backend logic, no server-side secrets, and absolutely **no interactions that ever ask for private keys, wallet phrases, signatures, or sensitive data**.
 
